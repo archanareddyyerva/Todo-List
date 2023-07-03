@@ -61,7 +61,9 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  
+  .js-todo-list{
+    color:#6A0DAD;
+  }
   
   
   
